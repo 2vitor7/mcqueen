@@ -59,7 +59,7 @@ function respostaSelecionada(opcaoSelecionada) {
 }
 
 function mostraResultado() {
-    caixaPerguntas.textContent = `Então em uma pescaria com ${nome} na qual ele não sabia de nada sobre pesca`;
+    caixaPerguntas.textContent = `Então Mcqueen em 2024`;
     textoResultado.textContent = historiaFinal;
     caixaAlternativas.textContent = "";
     caixaResultado.classList.add("mostrar");
